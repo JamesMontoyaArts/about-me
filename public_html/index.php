@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-	<html>
+<html>
 	<head>
 		<meta charset="utf-8">
 
@@ -12,7 +12,7 @@
 
 		<!--This is the header-->
 		<header>
-				<h1>Hello, My Name Is James Montoya</h1>
+			<h1>Hello, My Name Is James Montoya</h1>
 		</header>
 
 		<!--This is the main page content-->
