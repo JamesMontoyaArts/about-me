@@ -47,7 +47,22 @@
 
 				<h2>Gallery</h2>
 
-				<img ref=""
+				<img src="img/hot.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/cold.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/la-llorona.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/skull.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/shoulder.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/sunflower.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/rose.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/necklace.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/brenda.jpg" alt="Brenda" height="30%" width="30%">
+				<img src="img/Zia.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/Amber.jpg" alt="Amber" height="30%" width="30%">
+				<img src="img/issabelle.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/Jennie.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/purse.jpg" alt="Carlos" height="30%" width="30%">
+				<img src="img/Shea.jpg" alt="Carlos" height="30%" width="30%">
+
 
 			</section>
 
